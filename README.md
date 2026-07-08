@@ -3,3 +3,10 @@ AI-based Arthritis Severity Detection System
 - Diet & exercise recommendations
 - Alert scheduling
 - Explainable AI (Grad-CAM)
+
+Model Training
+180 epochs trained
+
+
+
+
